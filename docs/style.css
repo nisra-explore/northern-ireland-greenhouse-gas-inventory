@@ -1,0 +1,48 @@
+/* CSS Stylesheet*/
+
+div.chart-title {
+font-size: 17px;
+}
+
+div.navbar-inverse.navbar-fixed-top {
+font-size: 17px;
+}
+
+div.chart-shim.bootstrap-table.flowing-content-shim {
+font-size: 16px;
+}
+
+div.chart-stage.chartstage-flex {
+font-size: 16px;
+}
+
+.navbar-logo img {
+    position: absolute;
+    right: 0px;
+}
+
+.nav-tabs-custom .nav-tabs li.active a {
+color: green;
+font-size: 17px
+}
+
+
+.nav-tabs-custom .nav-tabs li:not(.active) a {
+color: black;
+font-size: 17px
+}
+
+#quarto-dashboard-header {
+    display: none !important;
+}
+
+.navbar-logo {
+  min-height: 48px;
+  min-width: 192px;
+}
+
+.navbar {
+  background-color: #1a6ecc;
+}
+
+

@@ -1,0 +1,31 @@
+name: Manual Sync Docs Folder
+
+on:
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  sync-docs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout green_house_gas repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Clone 04-daera-ghg repository
+        run: |
+          git clone https://github.com/NISRA-Tech-Lab/04-daera-ghg.git source_repo
+          
+      - name: Copy docs folder
+        run: |
+          rm -rf docs
+          cp -r source_repo/docs ./docs
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "nisra-explore"
+          git config --global user.email "explore@nisra.gov.uk"
+          git add docs
+          git diff --cached --quiet || git commit -m "Sync docs from 04-daera-ghg"
+          git push

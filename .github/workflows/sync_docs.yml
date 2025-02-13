@@ -24,8 +24,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "nisra-explore"
-          git config --global user.email "explore@nisra.gov.uk"
+          git config --local user.email " "
+          git config --local user.name "nisra-explore"
           git add docs
           git diff --cached --quiet || git commit -m "Sync docs from 04-daera-ghg"
           git push

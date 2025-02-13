@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function () {
     
     for (let i = 0; i < labels.length; i ++) {
       if (labels[i].length > 0) {
-        labels[i].textContent = labels[i][0].textContent.replace("1989", "Base year");
+        labels[i][0].textContent = labels[i][0].textContent.replace("1989", "Base year");
       }
     }
     

@@ -4,7 +4,7 @@ This repository is used to host the DAERA Greenhouse Gas Dashboard on the __expl
 
 ## Updating manually
 
-To manually update the website copy the contents of the `docs` folder in the dev repository found at https://github.com/NISRA-Tech-Lab/04-daera-ghg _[Note: update URL after handover]_
+To manually update the website copy the contents of the `docs` folder in the dev repository found at [on DAERA Climate Stats organisation](https://github.com/DAERA-Climate-Stats/GHGI-DASH-DEV)
 
 ## Updating via Github Actions
 

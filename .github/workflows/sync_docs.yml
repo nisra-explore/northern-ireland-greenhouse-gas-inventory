@@ -9,19 +9,19 @@ jobs:
 
     steps:
       - name: Checkout northern-ireland-greenhouse-gas-inventory repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           persist-credentials: true  # ✅ Keeps authentication for pushing
 
-      - name: Clone private GHGI-DASH-DEV repository
+      - name: Clone GHGI_24_Dashboard repository
         run: |
-          git clone https://x-access-token:${{ secrets.GH_PAT }}@github.com/DAERA-Climate-Stats/GHGI-DASH-DEV.git source_repo
+          git clone https://github.com/DAERA-Climate-Stats/GHGI_24_Dashboard.git source_repo
           
-      - name: Copy docs folder
+      - name: Copy root directory to docs folder
         run: |
           rm -rf docs
-          cp -r source_repo/docs ./docs
+          cp -r source_repo/* ./docs
 
       - name: Commit and push changes
         run: |

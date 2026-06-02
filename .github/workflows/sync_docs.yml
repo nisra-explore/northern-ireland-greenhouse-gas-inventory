@@ -21,6 +21,7 @@ jobs:
       - name: Copy root directory to docs folder
         run: |
           rm -rf docs
+          mkdir -p docs
           cp -r source_repo/* ./docs
 
       - name: Commit and push changes

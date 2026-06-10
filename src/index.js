@@ -16,7 +16,7 @@ window.addEventListener("DOMContentLoaded", async () => {
         document.getElementById("projections-card").classList.add("d-none");
     } 
 
-    // Insert values into homepage cards
+    // Insert values into homepage cards.
     const GHGEMSSNS = await readData("GHGEMSSNS");
     const stat = "CO2 equivalent emissions";
     updateYearSpans(GHGEMSSNS, stat);

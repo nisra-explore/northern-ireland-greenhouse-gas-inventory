@@ -1,32 +1,41 @@
 name: Manual Sync Docs Folder
 
 on:
-  workflow_dispatch:  # ✅ Manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   sync-docs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout northern-ireland-greenhouse-gas-inventory repository
-        uses: actions/checkout@v6
+      - name: Checkout target repository
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          persist-credentials: true  # ✅ Keeps authentication for pushing
+          persist-credentials: true
 
-      - name: Clone GHGI_24_Dashboard repository
+      - name: Clone source repository
         run: |
-          git clone https://github.com/DAERA-Climate-Stats/GHGI_24_Dashboard.git source_repo
-          
-      - name: Copy root directory contents
+          git clone --depth 1 https://github.com/DAERA-Climate-Stats/GHGI_24_Dashboard.git source_repo
+          rm -rf source_repo/.git
+
+      - name: Copy source contents
         run: |
-          cp -r source_repo/* .
-          cp -r source_repo/.[^.]* . 2>/dev/null || true
+          rsync -av --delete \
+            --exclude='.git' \
+            --exclude='source_repo' \
+            source_repo/ ./
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          rm -rf source_repo
+
+          git add -A
           git diff --cached --quiet || git commit -m "Sync from GHGI_24_Dashboard"
-          git push origin main  # ✅ Push changes to northern-ireland-greenhouse-gas-inventory
+          git push origin main

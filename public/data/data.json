@@ -1,7 +1,7 @@
 {
   "GHGEMSSNS": {
     "label": "Greenhouse gas emissions",
-    "updated": "2026-06-11",
+    "updated": "2026-08-11",
     "data": {
       "CO2 equivalent emissions": {
         "1990": {
@@ -198,7 +198,7 @@
             },
             "Oil and gas supply": {
               "CO2": 12642.3757,
-              "CH4": 10098.7849,
+              "CH4": 10098.7848,
               "N2O": 29.7267,
               "HFCs": 0,
               "PFCs": 0,
@@ -344,7 +344,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 2360.9066
+              "All pollutants": 2204.495
             },
             "Grand total": {
               "CO2": 466396.8131,
@@ -386,7 +386,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 4498.5594
+              "All pollutants": 4498.5593
             },
             "Other agriculture": {
               "CO2": 1.1444,
@@ -818,7 +818,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 11105.9842
+              "All pollutants": 11105.9841
             },
             "Civil aviation": {
               "CO2": 469.5378,
@@ -1829,7 +1829,7 @@
               "All pollutants": 51481.3098
             },
             "Commercial buildings": {
-              "CO2": 12105.4531,
+              "CO2": 12105.453,
               "CH4": 37.5334,
               "N2O": 12.1555,
               "HFCs": 0,
@@ -1909,7 +1909,7 @@
               "All pollutants": 1759.0732
             },
             "Road": {
-              "CO2": 92202.9168,
+              "CO2": 92202.9167,
               "CH4": 832.5138,
               "N2O": 1145.2228,
               "HFCs": 0,
@@ -1989,7 +1989,7 @@
               "All pollutants": 39626.1272
             },
             "Industrial processes": {
-              "CO2": 15539.0596,
+              "CO2": 15539.0597,
               "CH4": 237.7099,
               "N2O": 12728.815,
               "HFCs": 14807.3155,
@@ -2106,7 +2106,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 2327.2881
+              "All pollutants": 2136.8906
             },
             "Grand total": {
               "CO2": 426948.416,
@@ -2138,7 +2138,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 1103.1143
+              "All pollutants": 1103.1142
             },
             "Livestock": {
               "CO2": 0,
@@ -2783,7 +2783,7 @@
               "All pollutants": 198.8624
             },
             "Peatland": {
-              "CO2": 4019.008,
+              "CO2": 4019.0081,
               "CH4": 3613.3979,
               "N2O": 300.9724,
               "HFCs": 0,
@@ -3868,12 +3868,12 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 1545.0996
+              "All pollutants": 1352.6481
             },
             "Grand total": {
               "CO2": 423878.9256,
               "CH4": 90207.1814,
-              "N2O": 29636.4657,
+              "N2O": 29636.4658,
               "HFCs": 14563.355,
               "PFCs": 227.1234,
               "SF6": 1216.3458,
@@ -4402,7 +4402,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 12554.2452
+              "All pollutants": 12554.2453
             },
             "Power stations": {
               "CO2": 17729.2923,
@@ -4747,7 +4747,7 @@
               "All pollutants": 127.14
             },
             "Domestic transport total": {
-              "CO2": 3700.0714,
+              "CO2": 3700.0715,
               "CH4": 23.4488,
               "N2O": 41.5687,
               "HFCs": 5.3894,
@@ -5136,7 +5136,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 23499.9116
+              "All pollutants": 23499.9117
             },
             "Solid fuel supply": {
               "CO2": 0,
@@ -5156,7 +5156,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 23499.9116
+              "All pollutants": 23499.9117
             },
             "Industrial processes": {
               "CO2": 0,
@@ -5314,7 +5314,7 @@
             },
             "Livestock": {
               "CO2": 0,
-              "CH4": 18830.3017,
+              "CH4": 18830.3016,
               "N2O": 2206.0875,
               "HFCs": 0,
               "PFCs": 0,
@@ -5344,7 +5344,7 @@
             },
             "Waste total": {
               "CO2": 176.5349,
-              "CH4": 48406.806,
+              "CH4": 48406.8061,
               "N2O": 2884.8644,
               "HFCs": 0,
               "PFCs": 0,
@@ -5450,7 +5450,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 1807.7845
+              "All pollutants": 1807.7844
             },
             "Domestic transport total": {
               "CO2": 104800.3539,
@@ -5630,7 +5630,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 1992.5802
+              "All pollutants": 1805.9235
             },
             "Grand total": {
               "CO2": 417973.5318,
@@ -7082,7 +7082,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 20251.6711
+              "All pollutants": 20251.671
             },
             "Other agriculture": {
               "CO2": 3.8574,
@@ -7282,7 +7282,7 @@
               "PFCs": 190.5558,
               "SF6": 950.7034,
               "NF3": 0,
-              "All pollutants": 22251.8461
+              "All pollutants": 22251.846
             },
             "Industrial fuel combustion": {
               "CO2": 68208.815,
@@ -7382,7 +7382,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 2132.8441
+              "All pollutants": 2132.8442
             },
             "LULUCF total": {
               "CO2": -34.6067,
@@ -7392,11 +7392,11 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 1934.7279
+              "All pollutants": 1750.755
             },
             "Grand total": {
               "CO2": 423212.2515,
-              "CH4": 82319.8366,
+              "CH4": 82319.8367,
               "N2O": 21002.692,
               "HFCs": 5765.3833,
               "PFCs": 278.5929,
@@ -7584,7 +7584,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 11531.0434
+              "All pollutants": 11531.0435
             },
             "Electricity supply total": {
               "CO2": 11495.2513,
@@ -7594,7 +7594,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 11531.0434
+              "All pollutants": 11531.0435
             },
             "Oil and gas supply": {
               "CO2": 3010.4689,
@@ -8100,7 +8100,7 @@
             },
             "Grand total": {
               "CO2": 55168.625,
-              "CH4": 16834.3158,
+              "CH4": 16834.3157,
               "N2O": 3825.0206,
               "HFCs": 317.6734,
               "PFCs": 127.9443,
@@ -8844,7 +8844,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 18906.8805
+              "All pollutants": 18906.8804
             },
             "Other agriculture": {
               "CO2": 3.6445,
@@ -8874,7 +8874,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 49139.8772
+              "All pollutants": 49139.8773
             },
             "Commercial buildings": {
               "CO2": 14293.0288,
@@ -8957,7 +8957,7 @@
               "All pollutants": 1953.3911
             },
             "Road": {
-              "CO2": 96016.0765,
+              "CO2": 96016.0766,
               "CH4": 499.4957,
               "N2O": 994.2442,
               "HFCs": 0,
@@ -9034,7 +9034,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 29555.4388
+              "All pollutants": 29555.4389
             },
             "Industrial processes": {
               "CO2": 13078.9142,
@@ -9154,7 +9154,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 1729.2881
+              "All pollutants": 1549.0435
             },
             "Grand total": {
               "CO2": 434459.3166,
@@ -9688,7 +9688,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 11963.2841
+              "All pollutants": 11963.2842
             },
             "Power stations": {
               "CO2": 18777.2838,
@@ -9930,7 +9930,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 2024.6719
+              "All pollutants": 2024.672
             },
             "Commercial buildings": {
               "CO2": 194.6777,
@@ -10659,7 +10659,7 @@
               "All pollutants": 4252.6145
             },
             "Public sector buildings": {
-              "CO2": 10014.799,
+              "CO2": 10014.7989,
               "CH4": 41.4344,
               "N2O": 12.4119,
               "HFCs": 0,
@@ -10686,7 +10686,7 @@
               "PFCs": 4.2792,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 96352.6519
+              "All pollutants": 96352.652
             },
             "Civil aviation": {
               "CO2": 1338.2045,
@@ -10836,7 +10836,7 @@
               "PFCs": 152.0817,
               "SF6": 1358.1155,
               "NF3": 0.0789,
-              "All pollutants": 84241.9214
+              "All pollutants": 84241.9213
             },
             "Bioenergy crops": {
               "CO2": 0,
@@ -10916,7 +10916,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 1435.7144
+              "All pollutants": 1262.5108
             },
             "Grand total": {
               "CO2": 427078.79,
@@ -11453,7 +11453,7 @@
               "All pollutants": 12021.604
             },
             "Power stations": {
-              "CO2": 17129.8279,
+              "CO2": 17129.828,
               "CH4": 7.2014,
               "N2O": 71.3296,
               "HFCs": 0,
@@ -11463,7 +11463,7 @@
               "All pollutants": 17208.3589
             },
             "Electricity supply total": {
-              "CO2": 17129.8279,
+              "CO2": 17129.828,
               "CH4": 7.2014,
               "N2O": 71.3296,
               "HFCs": 0,
@@ -11656,7 +11656,7 @@
             },
             "Livestock": {
               "CO2": 0,
-              "CH4": 4001.2762,
+              "CH4": 4001.2763,
               "N2O": 227.9357,
               "HFCs": 0,
               "PFCs": 0,
@@ -12362,7 +12362,7 @@
             },
             "Livestock": {
               "CO2": 0,
-              "CH4": 16577.5065,
+              "CH4": 16577.5066,
               "N2O": 1943.2885,
               "HFCs": 0,
               "PFCs": 0,
@@ -12431,7 +12431,7 @@
               "All pollutants": 9647.9521
             },
             "Residential buildings": {
-              "CO2": 69900.9631,
+              "CO2": 69900.9632,
               "CH4": 613.4044,
               "N2O": 101.384,
               "HFCs": 0,
@@ -12678,7 +12678,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 1313.7678
+              "All pollutants": 1142.5743
             },
             "Grand total": {
               "CO2": 436893.9867,
@@ -13040,7 +13040,7 @@
               "PFCs": 55.9109,
               "SF6": 74.2084,
               "NF3": 0.0139,
-              "All pollutants": 47729.4765
+              "All pollutants": 47729.4766
             }
           },
           "Scotland": {
@@ -13544,7 +13544,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 3959.0255
+              "All pollutants": 3959.0256
             },
             "Waterborne": {
               "CO2": 119.3674,
@@ -14440,7 +14440,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 841.1871
+              "All pollutants": 670.3735
             },
             "Grand total": {
               "CO2": 437000.5257,
@@ -14907,7 +14907,7 @@
               "All pollutants": 7497.6595
             },
             "Buildings and product uses total": {
-              "CO2": 10466.9229,
+              "CO2": 10466.9228,
               "CH4": 90.7598,
               "N2O": 59.7619,
               "HFCs": 494.7336,
@@ -15708,7 +15708,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 20504.358
+              "All pollutants": 20504.3579
             },
             "Solid fuel supply": {
               "CO2": 0,
@@ -15728,7 +15728,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 20504.358
+              "All pollutants": 20504.3579
             },
             "Industrial processes": {
               "CO2": 0,
@@ -15932,7 +15932,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 12670.7679
+              "All pollutants": 12670.7678
             },
             "Other buildings and product uses": {
               "CO2": 322.0386,
@@ -16202,7 +16202,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 706.1354
+              "All pollutants": 520.3839
             },
             "Grand total": {
               "CO2": 435619.8503,
@@ -17847,7 +17847,7 @@
               "All pollutants": 24011.2226
             },
             "Industrial processes": {
-              "CO2": 12587.6709,
+              "CO2": 12587.671,
               "CH4": 127.7426,
               "N2O": 2404.1165,
               "HFCs": 393.6521,
@@ -17964,7 +17964,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 709.1683
+              "All pollutants": 498.3045
             },
             "Grand total": {
               "CO2": 430480.0649,
@@ -18700,7 +18700,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 1058.873
+              "All pollutants": 1058.8731
             },
             "Livestock": {
               "CO2": 0,
@@ -19410,7 +19410,7 @@
             },
             "Livestock": {
               "CO2": 0,
-              "CH4": 16357.5086,
+              "CH4": 16357.5085,
               "N2O": 1883.5222,
               "HFCs": 0,
               "PFCs": 0,
@@ -19479,7 +19479,7 @@
               "All pollutants": 9069.5317
             },
             "Residential buildings": {
-              "CO2": 61511.9774,
+              "CO2": 61511.9775,
               "CH4": 490.9397,
               "N2O": 83.5022,
               "HFCs": 0,
@@ -19580,7 +19580,7 @@
             },
             "Oil and gas supply": {
               "CO2": 13926.5837,
-              "CH4": 5622.6134,
+              "CH4": 5622.6135,
               "N2O": 39.8309,
               "HFCs": 0,
               "PFCs": 0,
@@ -19616,7 +19616,7 @@
               "PFCs": 110.9096,
               "SF6": 241.4346,
               "NF3": 0,
-              "All pollutants": 17308.5039
+              "All pollutants": 17308.5038
             },
             "Industrial fuel combustion": {
               "CO2": 60015.4618,
@@ -19726,7 +19726,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 325.4424
+              "All pollutants": 125.9144
             },
             "Grand total": {
               "CO2": 428836.4039,
@@ -19961,7 +19961,7 @@
               "All pollutants": 4535.2634
             },
             "Industrial processes": {
-              "CO2": 2674.8315,
+              "CO2": 2674.8316,
               "CH4": 16.1359,
               "N2O": 3.8878,
               "HFCs": 0,
@@ -21291,7 +21291,7 @@
               "All pollutants": 1652.5067
             },
             "Road": {
-              "CO2": 95713.6689,
+              "CO2": 95713.6688,
               "CH4": 238.469,
               "N2O": 608.8131,
               "HFCs": 0,
@@ -21488,7 +21488,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": -166.7832
+              "All pollutants": -348.6052
             },
             "Grand total": {
               "CO2": 413990.76,
@@ -21962,7 +21962,7 @@
               "PFCs": 0.0363,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 11057.0122
+              "All pollutants": 11057.0123
             },
             "Civil aviation": {
               "CO2": 651.9199,
@@ -22756,7 +22756,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 17442.9222
+              "All pollutants": 17442.9223
             },
             "Solid fuel supply": {
               "CO2": 0,
@@ -22776,7 +22776,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 17442.9222
+              "All pollutants": 17442.9223
             },
             "Industrial processes": {
               "CO2": 0,
@@ -23143,7 +23143,7 @@
               "All pollutants": 10252.9576
             },
             "Industrial fuel combustion": {
-              "CO2": 47089.9725,
+              "CO2": 47089.9726,
               "CH4": 46.2719,
               "N2O": 114.6698,
               "HFCs": 0,
@@ -23163,7 +23163,7 @@
               "All pollutants": 1335.5406
             },
             "Industry total": {
-              "CO2": 55777.8403,
+              "CO2": 55777.8404,
               "CH4": 165.3931,
               "N2O": 1455.7116,
               "HFCs": 874.7892,
@@ -23250,7 +23250,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": -184.9818
+              "All pollutants": -361.7932
             },
             "Grand total": {
               "CO2": 375473.8165,
@@ -23638,7 +23638,7 @@
             },
             "Livestock": {
               "CO2": 0,
-              "CH4": 4996.0913,
+              "CH4": 4996.0912,
               "N2O": 372.5418,
               "HFCs": 0,
               "PFCs": 0,
@@ -24702,7 +24702,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 17756.095
+              "All pollutants": 17756.0951
             },
             "Other agriculture": {
               "CO2": 1.5743,
@@ -24822,7 +24822,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 92111.1018
+              "All pollutants": 92111.1017
             },
             "Waterborne": {
               "CO2": 1766.6641,
@@ -24945,7 +24945,7 @@
               "All pollutants": 11.2519
             },
             "Cropland mineral soils change": {
-              "CO2": 3011.2717,
+              "CO2": 3011.2716,
               "CH4": 0,
               "N2O": 164.7116,
               "HFCs": 0,
@@ -25012,7 +25012,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": -285.8751
+              "All pollutants": -459.6931
             },
             "Grand total": {
               "CO2": 386842.2932,
@@ -26078,7 +26078,7 @@
               "PFCs": 0,
               "SF6": 8.0972,
               "NF3": 0,
-              "All pollutants": 22713.5203
+              "All pollutants": 22713.5204
             }
           },
           "Unallocated": {
@@ -26444,7 +26444,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 4148.4591
+              "All pollutants": 4148.459
             },
             "Agricultural soils": {
               "CO2": 1105.5868,
@@ -26774,7 +26774,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": -558.9301
+              "All pollutants": -728.1525
             },
             "Grand total": {
               "CO2": 357540.257,
@@ -28035,7 +28035,7 @@
               "All pollutants": 0
             },
             "Oil and gas supply": {
-              "CO2": 14067.2486,
+              "CO2": 14067.2487,
               "CH4": 1337.7301,
               "N2O": 270.282,
               "HFCs": 0,
@@ -28055,7 +28055,7 @@
               "All pollutants": 0
             },
             "Fuel supply total": {
-              "CO2": 14067.2486,
+              "CO2": 14067.2487,
               "CH4": 1337.7301,
               "N2O": 270.282,
               "HFCs": 0,
@@ -28409,7 +28409,7 @@
               "All pollutants": 2478.9173
             },
             "Fuel supply total": {
-              "CO2": 12756.639,
+              "CO2": 12756.6389,
               "CH4": 7012.0804,
               "N2O": 36.1007,
               "HFCs": 0,
@@ -28536,7 +28536,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": -501.6415
+              "All pollutants": -662.6237
             },
             "Grand total": {
               "CO2": 374207.1946,
@@ -29070,7 +29070,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 11762.361
+              "All pollutants": 11762.3611
             },
             "Power stations": {
               "CO2": 12619.9083,
@@ -29804,7 +29804,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 14800.2221
+              "All pollutants": 14800.222
             },
             "Solid fuel supply": {
               "CO2": 0,
@@ -29824,7 +29824,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 14800.2221
+              "All pollutants": 14800.222
             },
             "Industrial processes": {
               "CO2": 0,
@@ -30012,7 +30012,7 @@
             },
             "Waste total": {
               "CO2": 177.8111,
-              "CH4": 19676.287,
+              "CH4": 19676.2871,
               "N2O": 3631.7072,
               "HFCs": 0,
               "PFCs": 0,
@@ -30021,7 +30021,7 @@
               "All pollutants": 23485.8053
             },
             "Commercial buildings": {
-              "CO2": 11362.594,
+              "CO2": 11362.5941,
               "CH4": 41.9393,
               "N2O": 9.6491,
               "HFCs": 0,
@@ -30298,7 +30298,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": -794.0894
+              "All pollutants": -952.1875
             },
             "Grand total": {
               "CO2": 361927.7958,
@@ -30856,7 +30856,7 @@
             },
             "Oil and gas supply": {
               "CO2": 3955.9661,
-              "CH4": 450.7692,
+              "CH4": 450.7693,
               "N2O": 28.9882,
               "HFCs": 0,
               "PFCs": 0,
@@ -31012,7 +31012,7 @@
               "PFCs": 82.8741,
               "SF6": 57.1087,
               "NF3": 0.0394,
-              "All pollutants": 54029.2364
+              "All pollutants": 54029.2365
             }
           },
           "Northern Ireland": {
@@ -32060,7 +32060,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": -853.5358
+              "All pollutants": -1013.9739
             },
             "Grand total": {
               "CO2": 330538.0139,
@@ -33682,7 +33682,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 14963.0179
+              "All pollutants": 14963.0178
             },
             "Solid fuel supply": {
               "CO2": 310.6936,
@@ -33702,7 +33702,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 16472.8918
+              "All pollutants": 16472.8919
             },
             "Industrial processes": {
               "CO2": 9068.7275,
@@ -33822,7 +33822,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": -1163.0753
+              "All pollutants": -1369.6248
             },
             "Grand total": {
               "CO2": 312258.8575,
@@ -35314,7 +35314,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 10452.0531
+              "All pollutants": 10452.053
             },
             "Other buildings and product uses": {
               "CO2": 329.6532,
@@ -35424,7 +35424,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 59691.275
+              "All pollutants": 59691.2751
             },
             "Electricity supply total": {
               "CO2": 59175.4371,
@@ -35434,7 +35434,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 59691.275
+              "All pollutants": 59691.2751
             },
             "Oil and gas supply": {
               "CO2": 10733.021,
@@ -35584,7 +35584,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": -740.2767
+              "All pollutants": -969.9171
             },
             "Grand total": {
               "CO2": 290552.056,
@@ -35856,7 +35856,7 @@
               "PFCs": 5.0492,
               "SF6": 20.6645,
               "NF3": 0.0016,
-              "All pollutants": 10285.6848
+              "All pollutants": 10285.6849
             },
             "Bioenergy crops": {
               "CO2": 0,
@@ -37346,12 +37346,12 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": -979.7583
+              "All pollutants": -1226.4447
             },
             "Grand total": {
               "CO2": 286685.7913,
               "CH4": 39010.1635,
-              "N2O": 16147.7226,
+              "N2O": 16147.7227,
               "HFCs": 8526.3815,
               "PFCs": 314.4642,
               "SF6": 379.3027,
@@ -37703,7 +37703,7 @@
             "Grand total": {
               "CO2": 33010.135,
               "CH4": 6104.4284,
-              "N2O": 1592.9825,
+              "N2O": 1592.9826,
               "HFCs": 474.6236,
               "PFCs": 4.7772,
               "SF6": 19.8299,
@@ -37873,7 +37873,7 @@
               "All pollutants": 1508.1987
             },
             "Domestic transport total": {
-              "CO2": 12523.9893,
+              "CO2": 12523.9892,
               "CH4": 10.5775,
               "N2O": 100.5024,
               "HFCs": 155.267,
@@ -39108,7 +39108,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": -925.2009
+              "All pollutants": -1185.9142
             },
             "Grand total": {
               "CO2": 282732.4059,
@@ -40730,7 +40730,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 14000.8414
+              "All pollutants": 14000.8415
             },
             "Solid fuel supply": {
               "CO2": 91.2259,
@@ -40870,7 +40870,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": -1054.2561
+              "All pollutants": -1321.6486
             },
             "Grand total": {
               "CO2": 268430.9133,
@@ -42632,12 +42632,12 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": -1051.7189
+              "All pollutants": -1320.0701
             },
             "Grand total": {
               "CO2": 242700.6246,
               "CH4": 36694.4503,
-              "N2O": 15363.2234,
+              "N2O": 15363.2235,
               "HFCs": 6875.6037,
               "PFCs": 94.9283,
               "SF6": 338.9106,
@@ -43176,7 +43176,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 1712.4435
+              "All pollutants": 1712.4436
             },
             "Electricity supply total": {
               "CO2": 1682.744,
@@ -43186,7 +43186,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 1712.4435
+              "All pollutants": 1712.4436
             },
             "Oil and gas supply": {
               "CO2": 3180.9833,
@@ -43682,7 +43682,7 @@
             },
             "LULUCF total": {
               "CO2": 1545.2313,
-              "CH4": 471.8399,
+              "CH4": 471.84,
               "N2O": 135.582,
               "HFCs": 0,
               "PFCs": 0,
@@ -43691,7 +43691,7 @@
               "All pollutants": 2152.6533
             },
             "Grand total": {
-              "CO2": 12466.4569,
+              "CO2": 12466.457,
               "CH4": 5464.8536,
               "N2O": 1516.4044,
               "HFCs": 232.3854,
@@ -44234,7 +44234,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 43792.0108
+              "All pollutants": 43792.0107
             },
             "Electricity supply total": {
               "CO2": 43174.3163,
@@ -44244,7 +44244,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 43792.0108
+              "All pollutants": 43792.0107
             },
             "Oil and gas supply": {
               "CO2": 9765.9903,
@@ -44394,7 +44394,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": -974.2199
+              "All pollutants": -1235.1081
             },
             "Grand total": {
               "CO2": 257485.9959,
@@ -45870,7 +45870,7 @@
             },
             "Waste total": {
               "CO2": 158.0933,
-              "CH4": 14396.9625,
+              "CH4": 14396.9624,
               "N2O": 4002.2753,
               "HFCs": 0,
               "PFCs": 0,
@@ -45889,7 +45889,7 @@
               "All pollutants": 11244.234
             },
             "Other buildings and product uses": {
-              "CO2": 338.1483,
+              "CO2": 338.1482,
               "CH4": 1.2227,
               "N2O": 590.9108,
               "HFCs": 4071.8287,
@@ -45906,7 +45906,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 7190.5027
+              "All pollutants": 7190.5026
             },
             "Residential buildings": {
               "CO2": 44993.5621,
@@ -45989,7 +45989,7 @@
               "All pollutants": 90549.8967
             },
             "Power stations": {
-              "CO2": 43097.6591,
+              "CO2": 43097.6592,
               "CH4": 243.53,
               "N2O": 320.5319,
               "HFCs": 0,
@@ -45999,7 +45999,7 @@
               "All pollutants": 43661.7211
             },
             "Electricity supply total": {
-              "CO2": 43097.6591,
+              "CO2": 43097.6592,
               "CH4": 243.53,
               "N2O": 320.5319,
               "HFCs": 0,
@@ -46156,11 +46156,11 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": -739.8404
+              "All pollutants": -989.1359
             },
             "Grand total": {
               "CO2": 242883.6789,
-              "CH4": 35180.3352,
+              "CH4": 35180.3353,
               "N2O": 15236.3441,
               "HFCs": 5985.647,
               "PFCs": 100.9358,
@@ -46690,7 +46690,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 10953.8204
+              "All pollutants": 10953.8205
             },
             "Power stations": {
               "CO2": 1773.0804,
@@ -47641,7 +47641,7 @@
               "All pollutants": 18735.8414
             },
             "Commercial buildings": {
-              "CO2": 10731.6851,
+              "CO2": 10731.685,
               "CH4": 95.8186,
               "N2O": 18.7479,
               "HFCs": 0,
@@ -47858,7 +47858,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 3145.6712
+              "All pollutants": 3145.6711
             },
             "Forestry": {
               "CO2": -8687.3943,
@@ -47918,11 +47918,11 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": -778.5775
+              "All pollutants": -1331.7155
             },
             "Grand total": {
               "CO2": 229323.1569,
-              "CH4": 34740.7286,
+              "CH4": 34740.7287,
               "N2O": 15115.2686,
               "HFCs": 5566.7534,
               "PFCs": 99.0338,
@@ -48625,7 +48625,7 @@
               "All pollutants": 276.5337
             },
             "Grand total": {
-              "CO2": 23142.5835,
+              "CO2": 23142.5836,
               "CH4": 10327.4896,
               "N2O": 3107.1537,
               "HFCs": 565.9155,
@@ -48967,14 +48967,14 @@
               "All pollutants": 675.6974
             },
             "LULUCF total": {
-              "CO2": 1518.6823,
+              "CO2": 1518.6822,
               "CH4": 471.8637,
               "N2O": 139.3912,
               "HFCs": 0,
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 2129.9372
+              "All pollutants": 2129.9371
             },
             "Grand total": {
               "CO2": 11302.8738,
@@ -49503,7 +49503,7 @@
               "All pollutants": 2326.582
             },
             "Domestic transport total": {
-              "CO2": 87619.763,
+              "CO2": 87619.7629,
               "CH4": 74.7844,
               "N2O": 691.6561,
               "HFCs": 1256.568,
@@ -49680,7 +49680,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 0
+              "All pollutants": -1273.8687
             },
             "Grand total": {
               "CO2": 224908.0783,
@@ -49872,7 +49872,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 4568.317
+              "All pollutants": 4568.3171
             },
             "Electricity supply total": {
               "CO2": 4541.205,
@@ -49882,7 +49882,7 @@
               "PFCs": 0,
               "SF6": 0,
               "NF3": 0,
-              "All pollutants": 4568.317
+              "All pollutants": 4568.3171
             },
             "Oil and gas supply": {
               "CO2": 2452.0547,
